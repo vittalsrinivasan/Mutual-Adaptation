@@ -1,1 +1,2 @@
 # Mutual-Adaptation
+Mutual adaptation tackles the question of whether two or more systems can adaptively stabilize each other. While this question may seem innocuous, several intricacies and assumptions have to be considered while ensuring the stability of the overall system. Initially the concept of mutual adaptation for two first order systems is explored.  The theoretical observations are then applied to the problem of behavioural synchrony of simple physical systems of various types. 
